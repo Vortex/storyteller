@@ -1,6 +1,6 @@
 # Storyteller: NPC Generator
 
-> :warning: **Disclaimer**: This project is currently in a very early stage of development. It may lack certain features, and there may be bugs. Please use with caution. Any feedback is welcome!
+> :warning: **Disclaimer**: This project is currently in a very early stage of development. It may lack certain features, and there may be bugs. Please don't use it.
 
 
 Storyteller is a library that generates non-player characters (NPCs) for your game. It uses a language model to create characters and their backstories, which can then be utilized in your game to create a rich, immersive experience.
