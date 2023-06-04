@@ -14,7 +14,7 @@ Storyteller is a library that generates non-player characters (NPCs) for your ga
 
 ## Installation
 
-TODO: Add installation instructions here. You might want to include instructions for building from source, and also for installing any precompiled binaries (if available).
+TODO: Add installation instructions here.
 
 ## Usage
 
@@ -41,5 +41,5 @@ TODO: Add instructions for setting up the database that Storyteller uses
 
 ## Configuration
 
-TODO: If there are any configurations that users can adjust, document them here.
+TODO: Add configuration instructions.
 
